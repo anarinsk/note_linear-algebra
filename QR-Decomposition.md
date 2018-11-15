@@ -46,13 +46,20 @@ $\vdots$
 $a_k = \sum_{j=1}^{k} <e_j, a_k > e_j$
 
 * It is noted that $<e_i, a_i> = || u_i ||$. Why is that? 
-	* $a_i$와 $ $e_i$의 내적을 구한다는 것은 $a_i$를 $e_i$  평면에 프로젝션 시킨 후, 두 개의 벡터를 곱하는 것을 의미한다. 그런데, $a_i$를 $e_i$에 프로젝션 시킨 것이 바로 $u_i$이다. $e_i$는 $u_i$의 벡터길이를 나누어준 값이무
+	* $a_i$와 $ $e_i$의 내적을 구한다는 것은 $a_i$를 $e_i$  평면에 프로젝션 시킨 후, 두 개의 벡터를 곱하는 것을 의미한다. 그런데, $a_i$를 $e_i$에 프로젝션 시킨 것이 바로 $u_i$이다. $e_i$는 $u_i$의 벡터길이를 나누어준 값이므로, 결국 이는 위의 형태처럼 정리된다. 
 
+Let 
+
+$Q = [e_1, e_2, \dotsc, e_k]$
+
+and 
+
+$R = \left( <e_1, a_1>, <e_1, a_2> \dots\right)$
 
 ## Why 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTg0ODU2MCwtODYwOTg0ODAxLC0xMz
-QyMDE3NTk5XX0=
+eyJoaXN0b3J5IjpbNjk1MzE2MjUyLC04NjA5ODQ4MDEsLTEzND
+IwMTc1OTldfQ==
 -->
