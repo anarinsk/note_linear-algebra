@@ -64,10 +64,12 @@ R = \left( \begin{matrix}
 \right)
 $$
 
+$A = QR$
+
 ## Why 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk1MDEyMDAsLTg2MDk4NDgwMSwtMT
-M0MjAxNzU5OV19
+eyJoaXN0b3J5IjpbMTI5NTIyNDMzNywtODYwOTg0ODAxLC0xMz
+QyMDE3NTk5XX0=
 -->
