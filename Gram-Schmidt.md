@@ -22,6 +22,8 @@ https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
 
 ### 2nd dimension 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gram%E2%80%93Schmidt_process.svg/350px-Gram%E2%80%93Schmidt_process.svg.png)
+
 * Set of original vectors is $\lbrace v_1, v_2, \dotsc, v_n \rbrace$, and Set of orthogonal bases is $\lbrace u_1, u_2, \dotsc, u_n \rbrace$
 
 * Start with $v_1 = u_1$
@@ -51,7 +53,7 @@ $u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjIyMjI1NCw2NTQ3MTUwNjIsMTI5OD
-Q1MTIyLC0xMDM2NTQwNzk4LDY5NzAxODMxMiwyOTk4NzMzNl19
+eyJoaXN0b3J5IjpbNzcxMzQ5MDU1LDY1NDcxNTA2MiwxMjk4ND
+UxMjIsLTEwMzY1NDA3OTgsNjk3MDE4MzEyLDI5OTg3MzM2XX0=
 
 -->
