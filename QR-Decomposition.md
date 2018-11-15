@@ -23,8 +23,13 @@ where $Q$ is an orthogonal matrix ($Q^T Q = Q Q^T = I$) and $R$ is an upper(righ
 
 * Basically we use Gram-Schmidt process.
 
+$u_1 = a_1$, $e_1 = \frac{u_1}{||u_1||}$
+$u_2 = a_1 + \text{proj}_{u_1} a_2$, $e_1 = \frac{u_1}{||u_1||}$
+
+
 
 ## Why 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDk4NDgwMSwtMTM0MjAxNzU5OV19
+eyJoaXN0b3J5IjpbLTgyMTA4MjIwNywtODYwOTg0ODAxLC0xMz
+QyMDE3NTk5XX0=
 -->
