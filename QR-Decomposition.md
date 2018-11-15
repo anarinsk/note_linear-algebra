@@ -35,12 +35,16 @@ $\vdots$
 
 $u_k = a_k - \sum_{j=1}^{k-1} \text{proj}_{u_j} a_k$,  $e_k = \dfrac{u_k}{||u_k||}$
 
-We casn 
+We can now rearrange $a_k$ over our newly computed orthonormal basis: 
+
+$a_1 = \< e_1, a_1 \> e_1$
+
+
 
 ## Why 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA5ODUxNDYsLTg2MDk4NDgwMSwtMT
+eyJoaXN0b3J5IjpbLTE5MDE2NDA2NTMsLTg2MDk4NDgwMSwtMT
 M0MjAxNzU5OV19
 -->
