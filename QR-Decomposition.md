@@ -54,12 +54,17 @@ $Q = [e_1, e_2, \dotsc, e_k]$
 
 and 
 
-$R = \left( <e_1, a_1>, <e_1, a_2> \dots\right)$
+$$
+R = \left( \begin{matrix}
+<e_1, a_1> & <e_1, a_2>  \dotsi \\
+\end{matrix}
+\right)
+$$
 
 ## Why 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1MzE2MjUyLC04NjA5ODQ4MDEsLTEzND
-IwMTc1OTldfQ==
+eyJoaXN0b3J5IjpbLTE0ODI4NTM2ODEsLTg2MDk4NDgwMSwtMT
+M0MjAxNzU5OV19
 -->
