@@ -43,14 +43,16 @@ $a_2 = < e_1, a_2 > e_1 + < e_2, a_2 > e_2$
 
 $\vdots$
 
+$a_k = \sum_{j=1}^{k} <e_j, a_k > e_j$
 
-
+* It is noted that $<e_i, a_i> = || u_i ||$. Why is that? 
+	* 둘은 같은 벡터 위에 위치한 것이고, $e_i$
 
 
 ## Why 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM4NzY2NzMsLTg2MDk4NDgwMSwtMT
-M0MjAxNzU5OV19
+eyJoaXN0b3J5IjpbLTI1NDkwOTc3LC04NjA5ODQ4MDEsLTEzND
+IwMTc1OTldfQ==
 -->
