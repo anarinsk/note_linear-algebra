@@ -56,7 +56,10 @@ and
 
 $$
 R = \left( \begin{matrix}
-<e_1, a_1> & <e_1, a_2>  \dotsi \\
+<e_1, a_1> & <e_1, a_2>  & <e_1, a_3> & \dotsi \\
+0 & <e_2, a_2>   & <e_2, a_3> & \dotsi \\
+0 & 0 & <e_3, a_3> & \dotsi \\
+\vdots & \vdots & \vdots & \ddots
 \end{matrix}
 \right)
 $$
@@ -65,6 +68,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI4NTM2ODEsLTg2MDk4NDgwMSwtMT
+eyJoaXN0b3J5IjpbLTEzMTk1MDEyMDAsLTg2MDk4NDgwMSwtMT
 M0MjAxNzU5OV19
 -->
