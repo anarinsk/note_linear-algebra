@@ -5,6 +5,7 @@
 ## When 
 
 * 매트릭스를 분해하는 가장 초보적인 방법 
+* Eigenvalue 기반 분해, 혹은 Least squares에 두루두루 사용된다. 
 
 ## Where 
 
@@ -21,5 +22,5 @@ where $Q$ is an orthogonal matrix ($Q^T Q = Q Q^T = I$) and $R$ is an upper(righ
 ## How 
 ## Why 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIwMTc1OTldfQ==
+eyJoaXN0b3J5IjpbMTI5MTM4NTAyNSwtMTM0MjAxNzU5OV19
 -->
