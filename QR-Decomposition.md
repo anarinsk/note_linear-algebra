@@ -21,8 +21,7 @@ where $Q$ is an orthogonal matrix ($Q^T Q = Q Q^T = I$) and $R$ is an upper(righ
 
 ## How 
 
-let 
-
+let $A = [a_1, a_2, \dotsc, a_k]$.
 
 * Basically we use Gram-Schmidt process.
 
@@ -34,10 +33,14 @@ $u_3 = a_3 - \text{proj}_{u_1} a_3 - \text{proj}_{u_2} a_3$,  $e_2 = \dfrac{u_3}
 
 $\vdots$
 
-$u_k = a_k - \text{proj}_{u_1} a_3 - \text{proj}_{u_2} a_3$,  $e_2 = \dfrac{u_3}{||u_3||}$
+$u_k = a_k - \sum_{j=1}^{k-1} \text{proj}_{u_j} a_k$,  $e_k = \dfrac{u_k}{||u_k||}$
+
+We casn 
 
 ## Why 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIwNTc1OTIsLTg2MDk4NDgwMSwtMT
+eyJoaXN0b3J5IjpbLTIwMzA5ODUxNDYsLTg2MDk4NDgwMSwtMT
 M0MjAxNzU5OV19
 -->
