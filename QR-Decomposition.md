@@ -21,15 +21,23 @@ where $Q$ is an orthogonal matrix ($Q^T Q = Q Q^T = I$) and $R$ is an upper(righ
 
 ## How 
 
+let 
+
+
 * Basically we use Gram-Schmidt process.
 
-$u_1 = a_1$, $e_1 = \frac{u_1}{||u_1||}$
-$u_2 = a_1 + \text{proj}_{u_1} a_2$, $e_1 = \frac{u_1}{||u_1||}$
+$u_1 = a_1$,  $e_1 = \dfrac{u_1}{||u_1||}$
 
+$u_2 = a_2 - \text{proj}_{u_1} a_2$,  $e_2 = \dfrac{u_2}{||u_2||}$
 
+$u_3 = a_3 - \text{proj}_{u_1} a_3 - \text{proj}_{u_2} a_3$,  $e_2 = \dfrac{u_3}{||u_3||}$
+
+$\vdots$
+
+$u_k = a_k - \text{proj}_{u_1} a_3 - \text{proj}_{u_2} a_3$,  $e_2 = \dfrac{u_3}{||u_3||}$
 
 ## Why 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTA4MjIwNywtODYwOTg0ODAxLC0xMz
-QyMDE3NTk5XX0=
+eyJoaXN0b3J5IjpbLTIwNjIwNTc1OTIsLTg2MDk4NDgwMSwtMT
+M0MjAxNzU5OV19
 -->
