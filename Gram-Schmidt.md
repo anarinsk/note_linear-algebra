@@ -42,7 +42,7 @@ $\vdots$
 
 $u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$
 
-## Why / Why this is important 
+## Why / is important 
 
 * PCA 분석은 자료가 있을 때 이 자료를 적절한 축으로 돌려서 해당 축들에게 정보를 많이 파악하도록 만드는 것이다. 
 * 이것이 Principal이라고 부르는 이유는 서로 orthogonal하기 때문이다. 즉, 축 간에 서로 코릴레이션이 없게 된다. 
@@ -51,6 +51,7 @@ $u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NzE1MDYyLDEyOTg0NTEyMiwtMTAzNj
-U0MDc5OCw2OTcwMTgzMTIsMjk5ODczMzZdfQ==
+eyJoaXN0b3J5IjpbMTUyNjIyMjI1NCw2NTQ3MTUwNjIsMTI5OD
+Q1MTIyLC0xMDM2NTQwNzk4LDY5NzAxODMxMiwyOTk4NzMzNl19
+
 -->
