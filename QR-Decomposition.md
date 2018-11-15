@@ -20,7 +20,11 @@ $$ A = QR $$,
 where $Q$ is an orthogonal matrix ($Q^T Q = Q Q^T = I$) and $R$ is an upper(right) triangular matrix. 
 
 ## How 
+
+* Basically we use Gram-Schmidt process.
+
+
 ## Why 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTM4NTAyNSwtMTM0MjAxNzU5OV19
+eyJoaXN0b3J5IjpbLTg2MDk4NDgwMSwtMTM0MjAxNzU5OV19
 -->
