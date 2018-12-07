@@ -1,6 +1,6 @@
 
 
-Meaning of Projection
+# Meaning of Projection
 
 ![](http://blogs.jccc.edu/rgrondahl/files/2012/02/perpendicularprojection.jpg)
 
@@ -20,5 +20,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU1NjM5NjJdfQ==
+eyJoaXN0b3J5IjpbNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
 -->
