@@ -39,7 +39,6 @@ $u_1 = v_1$
 $u_2 = v_2 - \text{proj}_{u_1} (v_2)$
 
 $u_3 = v_3$ $-$ $\text{proj}_{u_2}(v_3)$ 
-$- \text{proj}_{u_1}(v_3)$ 
 
 $\vdots$
 
@@ -52,9 +51,9 @@ $u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$
 	* 즉 해당 축들로 프로젝션된 대상들 사이에는 correlation이 없음으로 변수들 사이의 다중공선성 같은 걸 걱정할 필요가 없게 되는 것 
  
 
-
+$- \text{proj}_{u_1}(v_3)$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzgwMjU4NzUsNzcxMzQ5MDU1LDY1ND
+eyJoaXN0b3J5IjpbLTE5NzQ0NDkyODEsNzcxMzQ5MDU1LDY1ND
 cxNTA2MiwxMjk4NDUxMjIsLTEwMzY1NDA3OTgsNjk3MDE4MzEy
 LDI5OTg3MzM2XX0=
 -->
