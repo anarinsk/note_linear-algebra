@@ -34,13 +34,10 @@ https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
 
 ## Generalization to $k$-dimension 
 
-$$u_1 = v_{1} $$
-
-$$u_2 = v_2 - \mathrm{proj}_{u_1} (v_2)$$
-
+$u_1 = v_{1}$
+$u_2 = v_2 - \mathrm{proj}_{u_1} (v_2)$
 
 $$u_3 = v_3 - {\mathrm{proj}_{u_1}}(v_3) - {\mathrm{proj}_{u_2}}(v_3)$$ 
-
 
 $$\vdots$$
 
@@ -55,8 +52,8 @@ $$u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzk5MjUxMSwtMTEwNTYxODM1NywxNj
-c0MTU1OTk2LDQwMTEwNzM5MSwxMDA4ODczMDMsLTE5NzQ0NDky
-ODEsNzcxMzQ5MDU1LDY1NDcxNTA2MiwxMjk4NDUxMjIsLTEwMz
-Y1NDA3OTgsNjk3MDE4MzEyLDI5OTg3MzM2XX0=
+eyJoaXN0b3J5IjpbODk0MDk3NzU3LC0xMTA1NjE4MzU3LDE2Nz
+QxNTU5OTYsNDAxMTA3MzkxLDEwMDg4NzMwMywtMTk3NDQ0OTI4
+MSw3NzEzNDkwNTUsNjU0NzE1MDYyLDEyOTg0NTEyMiwtMTAzNj
+U0MDc5OCw2OTcwMTgzMTIsMjk5ODczMzZdfQ==
 -->
