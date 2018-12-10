@@ -38,8 +38,8 @@ $$u_1 = v_{1} $$
 
 $$u_2 = v_2 - \mathrm{proj}_{u_1} (v_2)$$
 
-$$u_3 = v_3 - \text{proj}_{u_2} (v_3)$$
-$$- \text{proj}_{u_1} (v_3)$$ 
+$$u_3 = v_3 - \mathrm{proj}_{u_1} (v_3)$$
+$$- \text{proj}_{u_2} (v_3)$$ 
 $$\vdots$$
 $$u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$$
 
@@ -52,8 +52,8 @@ $$u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODM3NDUzOSwxNjc0MTU1OTk2LDQwMT
-EwNzM5MSwxMDA4ODczMDMsLTE5NzQ0NDkyODEsNzcxMzQ5MDU1
-LDY1NDcxNTA2MiwxMjk4NDUxMjIsLTEwMzY1NDA3OTgsNjk3MD
-E4MzEyLDI5OTg3MzM2XX0=
+eyJoaXN0b3J5IjpbLTExMDU2MTgzNTcsMTY3NDE1NTk5Niw0MD
+ExMDczOTEsMTAwODg3MzAzLC0xOTc0NDQ5MjgxLDc3MTM0OTA1
+NSw2NTQ3MTUwNjIsMTI5ODQ1MTIyLC0xMDM2NTQwNzk4LDY5Nz
+AxODMxMiwyOTk4NzMzNl19
 -->
