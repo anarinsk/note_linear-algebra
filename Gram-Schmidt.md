@@ -37,9 +37,11 @@ https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
 $$
 \begin{aligned}
 u_1 & = v_1 \\
-u_2 & = v_2 - \text{proj}_{u_1} (v_2)
+u_2 & = v_2 - \text{proj}_{{u_1}} (v_2)
 \end{aligned}
 $$
+
+
 $u_2 = v_2 - \text{proj}_{u_1} (v_2)$
 $u_3 = v_3 - \text{proj}_{u_2} (v_3)$ 
 $~~~~~~~~ - \text{proj}_{u_1} (v_3)$ 
@@ -55,7 +57,7 @@ $u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM0OTg5MjAsNDAxMTA3MzkxLDEwMD
+eyJoaXN0b3J5IjpbLTE3NzY1MDY3NjYsNDAxMTA3MzkxLDEwMD
 g4NzMwMywtMTk3NDQ0OTI4MSw3NzEzNDkwNTUsNjU0NzE1MDYy
 LDEyOTg0NTEyMiwtMTAzNjU0MDc5OCw2OTcwMTgzMTIsMjk5OD
 czMzZdfQ==
