@@ -35,14 +35,10 @@ https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
 ## Generalization to $k$-dimension 
 
 $u_1 = v_1$
-
 $u_2 = v_2 - \text{proj}_{u_1} (v_2)$
-
 $u_3 = v_3 - \text{proj}_{u_2} (v_3)$ 
 $~~~~~~~~ - \text{proj}_{u_1} (v_3)$ 
-
 $\vdots$
-
 $u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$
 
 ## Why / is important 
@@ -54,8 +50,8 @@ $u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjIwMzIwMSw0MDExMDczOTEsMTAwOD
-g3MzAzLC0xOTc0NDQ5MjgxLDc3MTM0OTA1NSw2NTQ3MTUwNjIs
-MTI5ODQ1MTIyLC0xMDM2NTQwNzk4LDY5NzAxODMxMiwyOTk4Nz
-MzNl19
+eyJoaXN0b3J5IjpbNTcxMDUyOTU1LDQwMTEwNzM5MSwxMDA4OD
+czMDMsLTE5NzQ0NDkyODEsNzcxMzQ5MDU1LDY1NDcxNTA2Miwx
+Mjk4NDUxMjIsLTEwMzY1NDA3OTgsNjk3MDE4MzEyLDI5OTg3Mz
+M2XX0=
 -->
