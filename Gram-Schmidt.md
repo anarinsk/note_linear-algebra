@@ -38,7 +38,8 @@ $u_1 = v_1$
 
 $u_2 = v_2 - \text{proj}_{u_1} (v_2)$
 
-$u_3 = v_3 - \text{proj}_{u_2} (v_3)$ $- \text{proj}_{u_1} (v_3)$ 
+$u_3 = v_3 - \text{proj}_{u_2} (v_3)$ 
+$~~~~~~~~ - \text{proj}_{u_1} (v_3)$ 
 
 $\vdots$
 
@@ -53,7 +54,8 @@ $u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxMTA3MzkxLDEwMDg4NzMwMywtMTk3ND
-Q0OTI4MSw3NzEzNDkwNTUsNjU0NzE1MDYyLDEyOTg0NTEyMiwt
-MTAzNjU0MDc5OCw2OTcwMTgzMTIsMjk5ODczMzZdfQ==
+eyJoaXN0b3J5IjpbLTc2MjIwMzIwMSw0MDExMDczOTEsMTAwOD
+g3MzAzLC0xOTc0NDQ5MjgxLDc3MTM0OTA1NSw2NTQ3MTUwNjIs
+MTI5ODQ1MTIyLC0xMDM2NTQwNzk4LDY5NzAxODMxMiwyOTk4Nz
+MzNl19
 -->
