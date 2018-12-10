@@ -39,8 +39,11 @@ $$u_1 = v_{1} $$
 $$u_2 = v_2 - \mathrm{proj}_{u_1} (v_2)$$
 
 $$u_3 = v_3 - \mathrm{proj}_{u_1} (v_3)$$
+
 $$- \text{proj}_{u_2} (v_3)$$ 
+
 $$\vdots$$
+
 $$u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$$
 
 ## Why / is important 
@@ -52,8 +55,8 @@ $$u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU2MTgzNTcsMTY3NDE1NTk5Niw0MD
-ExMDczOTEsMTAwODg3MzAzLC0xOTc0NDQ5MjgxLDc3MTM0OTA1
-NSw2NTQ3MTUwNjIsMTI5ODQ1MTIyLC0xMDM2NTQwNzk4LDY5Nz
-AxODMxMiwyOTk4NzMzNl19
+eyJoaXN0b3J5IjpbOTEyMjYyNDI5LC0xMTA1NjE4MzU3LDE2Nz
+QxNTU5OTYsNDAxMTA3MzkxLDEwMDg4NzMwMywtMTk3NDQ0OTI4
+MSw3NzEzNDkwNTUsNjU0NzE1MDYyLDEyOTg0NTEyMiwtMTAzNj
+U0MDc5OCw2OTcwMTgzMTIsMjk5ODczMzZdfQ==
 -->
