@@ -30,15 +30,20 @@ $$
 * bilinearity and symmetry 
 
 $$
-\lvert\lvert a - b \rvert\rvert^2 = \langle a-b, a-b \rangle = \lvert\lvert a \rvert\rvert^2 +  \lvert\lvert b \rvert\rvert^2 - \langle a-b, a-b \rangle 
+\lvert\lvert a - b \rvert\rvert^2 = \langle a-b, a-b \rangle = \lvert\lvert a \rvert\rvert^2 +  \lvert\lvert b \rvert\rvert^2 - 2\langle a, b \rangle 
+$$
+
+Thus, 
+
+$$
+\langle a, b \rangle = \lvert\lvert a \rvert\rvert  \lvert\lvert b \rvert\rvert \cos \theta 
 $$
 
 
 
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg3OTc1NTksLTE3MzkzMjExNzMsLT
-IwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbLTg4ODg0NjYyMCwtMTczOTMyMTE3MywtMj
+A1MzA2ODE2Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
 -->
