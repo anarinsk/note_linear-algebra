@@ -39,10 +39,10 @@ $$
 \langle a, b \rangle = \lvert\lvert a \rvert\rvert  \lvert\lvert b \rvert\rvert \cos \theta 
 $$
 
-Geometrically. 
+Geometrically, dot product is multiplication of the length of vector projected and the one projecting. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNjgyODU5LC0xNzM5MzIxMTczLC0yMD
-UzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
+eyJoaXN0b3J5IjpbOTM2NzI4ODIsLTE3MzkzMjExNzMsLTIwNT
+MwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
 -->
