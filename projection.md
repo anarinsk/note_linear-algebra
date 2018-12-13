@@ -30,7 +30,7 @@ $$
 * bilinearity and symmetry 
 
 $$
-\lvert\lvert a - b \rvert\rvert^2 = \lvert\lvert a \rvert\rvert^2 + \lvert\lvert  b \rvert\rvert^2 - 2\lvert\lvert a \rvert\rvert \lvert\lvert  b \rvert\rvert^2 \cos \theta
+\lvert\lvert a - b \rvert\rvert^2 = \langle a-b, a-b \rangle = \lvert\lvert a \rvert\rvert^2 +  \lvert\lvert b \rvert\rvert^2 - \langle a-b, a-b \rangle 
 $$
 
 
@@ -39,6 +39,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODQ2Nzg2NCwtMTczOTMyMTE3MywtMj
-A1MzA2ODE2Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDg3OTc1NTksLTE3MzkzMjExNzMsLT
+IwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
 -->
