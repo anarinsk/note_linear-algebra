@@ -39,10 +39,10 @@ $$
 \langle a, b \rangle = \lvert\lvert a \rvert\rvert  \lvert\lvert b \rvert\rvert \cos \theta 
 $$
 
-
+Geometrically. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYxNjgwMTAsLTE3MzkzMjExNzMsLT
-IwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbMjcyNjgyODU5LC0xNzM5MzIxMTczLC0yMD
+UzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
 -->
