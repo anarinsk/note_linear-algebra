@@ -27,6 +27,7 @@ $$
 \lvert\lvert a - b \rvert\rvert^2 = \lvert\lvert a \rvert\rvert^2 + \lvert\lvert  b \rvert\rvert^2 - 2\lvert\lvert a \rvert\rvert \lvert\lvert  b \rvert\rvert^2 \cos \theta
 $$
 
+* bilinearity and symmetry 
 
 
 
@@ -35,6 +36,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNT
-YxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbNjM2NzQ1MTQ0LC0xNzM5MzIxMTczLC0yMD
+UzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
 -->
