@@ -19,6 +19,8 @@ $$
 
 ## How to proof 
 
+[LINK](https://math.stackexchange.com/questions/116133/how-to-understand-dot-product-is-the-angles-cosine)
+
 * [Law of COS](https://en.wikipedia.org/wiki/Law_of_cosines)
 
 $$
@@ -33,6 +35,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNDIyMTIzLC0yMDUzMDY4MTY3LDU2MT
-UxNzczMSwtMTc3NTU2Mzk2Ml19
+eyJoaXN0b3J5IjpbLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNT
+YxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
 -->
