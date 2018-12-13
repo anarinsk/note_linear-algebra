@@ -29,6 +29,9 @@ $$
 
 * bilinearity and symmetry 
 
+$$
+\lvert\lvert a - b \rvert\rvert^2 = \lvert\lvert a \rvert\rvert^2 + \lvert\lvert  b \rvert\rvert^2 - 2\lvert\lvert a \rvert\rvert \lvert\lvert  b \rvert\rvert^2 \cos \theta
+$$
 
 
 
@@ -36,6 +39,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NzQ1MTQ0LC0xNzM5MzIxMTczLC0yMD
-UzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
+eyJoaXN0b3J5IjpbMTcyODQ2Nzg2NCwtMTczOTMyMTE3MywtMj
+A1MzA2ODE2Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
 -->
