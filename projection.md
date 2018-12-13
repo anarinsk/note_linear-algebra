@@ -15,10 +15,22 @@ $$
 \cos \theta = \frac{u \cdot v}{|u| |v| }
 $$
 
+# Dot product with COS 
+
+## How to proof 
+
+* [Law of COS](https://en.wikipedia.org/wiki/Law_of_cosines)
+
+$$
+
+$$
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbLTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNz
+c1NTYzOTYyXX0=
 -->
