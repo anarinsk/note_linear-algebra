@@ -22,7 +22,7 @@ $$
 * [Law of COS](https://en.wikipedia.org/wiki/Law_of_cosines)
 
 $$
-
+\lvert\lvert a - b \rvert\rvert^2 = \lvert\lvert a \rvert\rvert^2 + \lvert\lvert  b \rvert\rvert^2 - 2\lvert\lvert a \rvert\rvert \lvert\lvert  b \rvert\rvert^2 \cos \theta
 $$
 
 
@@ -30,7 +30,9 @@ $$
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNz
-c1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbODIwNDIyMTIzLC0yMDUzMDY4MTY3LDU2MT
+UxNzczMSwtMTc3NTU2Mzk2Ml19
 -->
