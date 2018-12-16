@@ -26,7 +26,7 @@ $$
 \lvert\lvert a - b \rvert\rvert^2 = \lvert\lvert a \rvert\rvert^2 + \lvert\lvert  b \rvert\rvert^2 - 2\lvert\lvert a \rvert\rvert \lvert\lvert  b \rvert\rvert^2 \cos \theta
 $$
 
-* bilinearity and symmetry 
+* [bilinearity](https://en.wikipedia.org/wiki/Bilinear_map) and symmetry 
 
 $$
 \lvert\lvert a - b \rvert\rvert^2 = \langle a-b, a-b \rangle = \lvert\lvert a \rvert\rvert^2 +  \lvert\lvert b \rvert\rvert^2 - 2\langle a, b \rangle 
@@ -42,7 +42,7 @@ Geometrically, dot product is multiplication of the length of vector projected a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ4OTg2MzMsOTM2NzI4ODIsLTE3Mz
+eyJoaXN0b3J5IjpbLTE3NzIxMTUwNDQsOTM2NzI4ODIsLTE3Mz
 kzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYz
 OTYyXX0=
 -->
