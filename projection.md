@@ -63,14 +63,18 @@ z = u - u_v = u - \frac{\langle u,v \rangle}{\langle v,v \rangle} v
 $$
 
 $$
-\langle z, v \rangle = \langle u =
+\langle z, v \rangle = 0
+$$
+
+$$
+\lVert u \rVert^2 = \lvert \dfrac{\langle u,v }{} \rvert
 $$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc0MDc0ODYsNjg1MDI1NDU2LDkzNj
+eyJoaXN0b3J5IjpbLTEwODQ0NzA0NjUsNjg1MDI1NDU2LDkzNj
 cyODgyLC0xNzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzcz
 MSwtMTc3NTU2Mzk2Ml19
 -->
