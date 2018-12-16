@@ -51,13 +51,22 @@ $$
 ## Proof 
 
 $$
-\rvert \langle u, v \rangle \lvert \leq \lVert v \rVert \lVert u \rangle
+\rvert \langle u, v \rangle \lvert \leq \lVert v \rVert \lVert u \rVert
 $$ 
+
+if $v=0$, equality holds. 
+
+Let 
+
+$$
+z = u - u_v = u - \frac{}{}
+$$
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODAxMjg3OCw2ODUwMjU0NTYsOTM2Nz
-I4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMx
-LC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbLTE2OTM3MzA5NDcsNjg1MDI1NDU2LDkzNj
+cyODgyLC0xNzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzcz
+MSwtMTc3NTU2Mzk2Ml19
 -->
