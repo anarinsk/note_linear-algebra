@@ -11,7 +11,7 @@ $\cos \theta$ is to be $\dfrac{\lvert\lvert \text{Proj}_v u \rvert\rvert}{\lvert
 Thus, 
 
 $$
-\cos \theta = \frac{u \cdot v}{\lvertu| |v| }
+\cos \theta = \frac{u \cdot v}{\lvert\lvert u \rvert\rvert {\,}\lvert\lvert v \rvert\rvert}
 $$
 
 # Dot product with COS 
@@ -42,7 +42,7 @@ Geometrically, dot product is multiplication of the length of vector projected a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDExNDIwOTYsOTM2NzI4ODIsLTE3Mz
+eyJoaXN0b3J5IjpbLTE1MDQ4OTg2MzMsOTM2NzI4ODIsLTE3Mz
 kzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYz
 OTYyXX0=
 -->
