@@ -4,14 +4,14 @@
 
 ![](http://blogs.jccc.edu/rgrondahl/files/2012/02/perpendicularprojection.jpg)
 
-$u \cdot v = \lvert \text{Proj}_v u \rvert \lvert v \rvert$
+$u \cdot v = \lvert\lvert \text{Proj}_v u \rvert\rvert \lvert\lvert v \rvert\rvert$
 
-$\cos \theta$ is to be $\dfrac{\lvert \text{Proj}_v u \rvert}{\lvert u \rvert}$. 
+$\cos \theta$ is to be $\dfrac{\lvert\lvert \text{Proj}_v u \rvert\rvert}{\lvert\lvert u \rvert\rvert}$. 
 
 Thus, 
 
 $$
-\cos \theta = \frac{u \cdot v}{|u| |v| }
+\cos \theta = \frac{u \cdot v}{\lvertu| |v| }
 $$
 
 # Dot product with COS 
@@ -42,7 +42,7 @@ Geometrically, dot product is multiplication of the length of vector projected a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNTEyNzA5LDkzNjcyODgyLC0xNzM5Mz
-IxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2
-Ml19
+eyJoaXN0b3J5IjpbLTE0MDExNDIwOTYsOTM2NzI4ODIsLTE3Mz
+kzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYz
+OTYyXX0=
 -->
