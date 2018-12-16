@@ -59,14 +59,18 @@ if $v=0$, equality holds.
 Let 
 
 $$
-z = u - u_v = u - \frac{}{}
+z = u - u_v = u - \frac{\langle u,v \rangle}{\langle v,v \rangle} v
+$$
+
+$$
+\langle z, v \rangle = \langle u =
 $$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM3MzA5NDcsNjg1MDI1NDU2LDkzNj
+eyJoaXN0b3J5IjpbLTE4Mzc0MDc0ODYsNjg1MDI1NDU2LDkzNj
 cyODgyLC0xNzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzcz
 MSwtMTc3NTU2Mzk2Ml19
 -->
