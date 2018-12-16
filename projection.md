@@ -40,9 +40,15 @@ $$
 
 Geometrically, dot product is multiplication of the length of vector projected and the one projecting. 
 
+# Cauchy-Schwarz Inequality 
 
+## Statement 
+
+$$
+\rvert \langle u, v \rangle \lvert^2 \leq \langle v, v \ranl
+$$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1MDI1NDU2LDkzNjcyODgyLC0xNzM5Mz
-IxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2
-Ml19
+eyJoaXN0b3J5IjpbMzUzMjc4ODk4LDY4NTAyNTQ1Niw5MzY3Mj
+g4MiwtMTczOTMyMTE3MywtMjA1MzA2ODE2Nyw1NjE1MTc3MzEs
+LTE3NzU1NjM5NjJdfQ==
 -->
