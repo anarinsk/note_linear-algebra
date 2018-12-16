@@ -4,7 +4,6 @@
 
 ![](http://blogs.jccc.edu/rgrondahl/files/2012/02/perpendicularprojection.jpg)
 
-Let $l(x)$ denote the euclidean distance of vector $x$, 
 $u \cdot v = \lvert \text{Proj}_v u \rvert \lvert v \rvert$
 
 $\cos \theta$ is to be $\dfrac{\lvert \text{Proj}_v u \rvert}{\lvert u \rvert}$. 
@@ -43,6 +42,7 @@ Geometrically, dot product is multiplication of the length of vector projected a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NzI4ODIsLTE3MzkzMjExNzMsLTIwNT
-MwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbMzYwNTEyNzA5LDkzNjcyODgyLC0xNzM5Mz
+IxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2
+Ml19
 -->
