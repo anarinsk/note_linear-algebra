@@ -35,14 +35,14 @@ $$
 Thus, 
 
 $$
-\langle a, b \rangle = \lvert\lvert a \rvert\rvert  \lvert\lvert b \rvert\rvert \cos \theta 
+\langle a, b \rangle = \lvert\lvert a \rvert\rvert  {\,} \lvert\lvert b \rvert\rvert \cos \theta 
 $$
 
 Geometrically, dot product is multiplication of the length of vector projected and the one projecting. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIxMTUwNDQsOTM2NzI4ODIsLTE3Mz
-kzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYz
-OTYyXX0=
+eyJoaXN0b3J5IjpbNjg1MDI1NDU2LDkzNjcyODgyLC0xNzM5Mz
+IxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2
+Ml19
 -->
