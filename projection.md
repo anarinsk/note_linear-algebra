@@ -23,13 +23,13 @@ $$
 * [Law of COS](https://en.wikipedia.org/wiki/Law_of_cosines)
 
 $$
-\lVert a - b \rVert^2 = \lVert a \rVert^2 + \lVert  b \rVert^2 - 2\lVert a \rvert\rvert \lvert\lvert  b \rvert\rvert^2 \cos \theta
+\lVert a - b \rVert^2 = \lVert a \rVert^2 + \lVert  b \rVert^2 - 2\lVert a \rVert \lVert  b \rVert^2 \cos \theta
 $$
 
 * [bilinearity](https://en.wikipedia.org/wiki/Bilinear_map) and symmetry 
 
 $$
-\lvert\lvert a - b \rvert\rvert^2 = \langle a-b, a-b \rangle = \lvert\lvert a \rvert\rvert^2 +  \lvert\lvert b \rvert\rvert^2 - 2\langle a, b \rangle 
+\lVert a - b \rVert^2 = \langle a-b, a-b \rangle = \lVert a \rVert^2 +  \lVert b \rVert^2 - 2\langle a, b \rangle 
 $$
 
 Thus, 
@@ -51,13 +51,13 @@ $$
 ## Proof 
 
 $$
-\rvert \langle u, v \rangle \lvert \leq \lVert v \rangle \langle u,u \rangle
+\rvert \langle u, v \rangle \lvert \leq \lVert v \rVert \lVert u \rangle
 $$ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYxNjUwMDQsNjg1MDI1NDU2LDkzNj
-cyODgyLC0xNzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzcz
-MSwtMTc3NTU2Mzk2Ml19
+eyJoaXN0b3J5IjpbMjEzODAxMjg3OCw2ODUwMjU0NTYsOTM2Nz
+I4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMx
+LC0xNzc1NTYzOTYyXX0=
 -->
