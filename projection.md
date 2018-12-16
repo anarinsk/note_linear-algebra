@@ -61,7 +61,7 @@ $$
 $\langle z, v \rangle = 0$ holds. That is, $z$ and $v$ are orthogonal. 
 
 $$
-\lVert u \rVert^2 = \Big\lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \Big\rvert^2 \lVert v \rVert^2 + \lVert z\rVert^2 =   \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} + \lVert z \rVert^2 \geq \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} .
+\lVert u \rVert^2 = \bigg\lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \bigg\rvert^2 \lVert v \rVert^2 + \lVert z\rVert^2 =   \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} + \lVert z \rVert^2 \geq \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} .
 $$
 
 
@@ -69,7 +69,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTMwMjE1MSwxNDc1NDU0NzY3LDEzNj
-A5NjM1NjUsNjg1MDI1NDU2LDkzNjcyODgyLC0xNzM5MzIxMTcz
-LC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
+eyJoaXN0b3J5IjpbMzgwNTIzMjE1LDE0NzU0NTQ3NjcsMTM2MD
+k2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMs
+LTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
 -->
