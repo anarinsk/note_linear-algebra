@@ -45,10 +45,19 @@ Geometrically, dot product is multiplication of the length of vector projected a
 ## Statement 
 
 $$
-\rvert \langle u, v \rangle \lvert^2 \leq \langle v, v \ranl
+\rvert \langle u, v \rangle \lvert^2 \leq \langle v, v \rangle \langle u,u \rangle
 $$ 
+
+## Proof 
+
+$$
+\rvert \langle u, v \rangle \lvert \leq \langle v, v \rangle \langle u,u \rangle
+$$ 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMjc4ODk4LDY4NTAyNTQ1Niw5MzY3Mj
-g4MiwtMTczOTMyMTE3MywtMjA1MzA2ODE2Nyw1NjE1MTc3MzEs
-LTE3NzU1NjM5NjJdfQ==
+eyJoaXN0b3J5IjpbMTI0NDE5NTk3OSw2ODUwMjU0NTYsOTM2Nz
+I4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMx
+LC0xNzc1NTYzOTYyXX0=
 -->
