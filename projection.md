@@ -67,14 +67,14 @@ $$
 $$
 
 $$
-\lVert u \rVert^2 = \lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \rvert^2 \lVert v \rVert^2 + \lVert \rVert 
+\lVert u \rVert^2 = \lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \rvert^2 \lVert v \rVert^2 + \lVert z\rVert^2 =   \dfrac{\langle u,v \rangle^2}{\langle v, v \rangle} \rvert^2 \lVert v \rVert^2
 $$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDk2MzU2NSw2ODUwMjU0NTYsOTM2Nz
-I4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMx
-LC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbMTA3MzIxNjAxOCwxMzYwOTYzNTY1LDY4NT
+AyNTQ1Niw5MzY3Mjg4MiwtMTczOTMyMTE3MywtMjA1MzA2ODE2
+Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
 -->
