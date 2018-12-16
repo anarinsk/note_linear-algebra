@@ -4,7 +4,7 @@
 
 ![](http://blogs.jccc.edu/rgrondahl/files/2012/02/perpendicularprojection.jpg)
 
-$u \cdot v = \lvert\lvert \text{Proj}_v u \rvert\rvert \lvert\lvert v \rvert\rvert$
+$u \cdot v = \lVert \text{Proj}_v u \rVert \lVert\lvert v \rvert\rvert$
 
 $\cos \theta$ is to be $\dfrac{\lvert\lvert \text{Proj}_v u \rvert\rvert}{\lvert\lvert u \rvert\rvert}$. 
 
@@ -51,13 +51,13 @@ $$
 ## Proof 
 
 $$
-\rvert \langle u, v \rangle \lvert \leq \langle v, v \rangle \langle u,u \rangle
+\rvert \langle u, v \rangle \lvert \leq \lVert v \rangle \langle u,u \rangle
 $$ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDE5NTk3OSw2ODUwMjU0NTYsOTM2Nz
-I4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMx
-LC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbLTE5ODUxMjM3NDUsNjg1MDI1NDU2LDkzNj
+cyODgyLC0xNzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzcz
+MSwtMTc3NTU2Mzk2Ml19
 -->
