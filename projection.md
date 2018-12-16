@@ -50,10 +50,6 @@ $$
 
 ## Proof 
 
-$$
-\rvert \langle u, v \rangle \lvert \leq \lVert v \rVert \lVert u \rVert
-$$ 
-
 if $v=0$, equality holds. 
 
 Let 
@@ -67,14 +63,14 @@ $$
 $$
 
 $$
-\lVert u \rVert^2 = \lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \rvert^2 \lVert v \rVert^2 + \lVert z\rVert^2 =   \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} \rvert^2 \lVert v \rVert^2
+\lVert u \rVert^2 = \lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \rvert^2 \lVert v \rVert^2 + \lVert z\rVert^2 =   \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} + \lVert z \rVert^2 \geq \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} 
 $$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxOTE2NTY4LDEzNjA5NjM1NjUsNjg1MD
-I1NDU2LDkzNjcyODgyLC0xNzM5MzIxMTczLC0yMDUzMDY4MTY3
-LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
+eyJoaXN0b3J5IjpbLTExODU0ODU0OTAsMTM2MDk2MzU2NSw2OD
+UwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgx
+NjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
 -->
