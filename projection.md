@@ -58,19 +58,18 @@ $$
 z = u - u_v = u - \frac{\langle u,v \rangle}{\langle v,v \rangle} v
 $$
 
-$$
-\langle z, v \rangle = 0
-$$
+$\langle z, v \rangle = 0$ holds. That is, $z$ and $v$ are orthogonal. 
 
 $$
-\lVert u \rVert^2 = \lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \rvert^2 \lVert v \rVert^2 + \lVert z\rVert^2 =   \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} + \lVert z \rVert^2 \geq \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} 
+\lVert u \rVert^2 = \lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \rvert^2 \lVert v \rVert^2 + \lVert z\rVert^2 =   \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} + \lVert z \rVert^2 \geq \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} .
 $$
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU0ODU0OTAsMTM2MDk2MzU2NSw2OD
-UwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgx
-NjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbMTQ3NTQ1NDc2NywxMzYwOTYzNTY1LDY4NT
+AyNTQ1Niw5MzY3Mjg4MiwtMTczOTMyMTE3MywtMjA1MzA2ODE2
+Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
 -->
