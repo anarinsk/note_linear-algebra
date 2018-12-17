@@ -23,7 +23,7 @@ $$
 * [Law of COS](https://en.wikipedia.org/wiki/Law_of_cosines)
 
 $$
-\lVert a - b \rVert^2 = \lVert a \rVert^2 + \lVert  b \rVert^2 - 2\lVert a \rVert \lVert  b \rVert^2 \cos \theta
+\lVert a - b \rVert^2 = \lVert a \rVert^2 + \lVert  b \rVert^2 - 2\lVert a \rVert \lVert  b \rVert \cos \theta
 $$
 
 * [bilinearity](https://en.wikipedia.org/wiki/Bilinear_map) and symmetry 
@@ -69,7 +69,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNTIzMjE1LDE0NzU0NTQ3NjcsMTM2MD
-k2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMs
-LTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbMjA5Njc1ODExLDM4MDUyMzIxNSwxNDc1ND
+U0NzY3LDEzNjA5NjM1NjUsNjg1MDI1NDU2LDkzNjcyODgyLC0x
+NzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NT
+U2Mzk2Ml19
 -->
