@@ -79,9 +79,9 @@ In this view, regression is a project from $y$ onto column space of $X$. Column 
 
 $$
 \begin{aligned}
-x_1^{\text T} (y- X \hat \beta) & = 0 \\
+\hat \beta_1 x_1^{\text T} (y- X \hat \beta) & = 0 \\
 & \vdots  \\
-x_k^{\text T} (y- X \hat \beta) & = 0 
+\hat \beta_1x_k^{\text T} (y- X \hat \beta) & = 0 
 \end{aligned}
 $$
 
@@ -96,9 +96,9 @@ By some calculation, $\beta = (X^{\text T} X)^{-1}X^{\text T} y$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDE0ODQyOCwtNTE4OTE4ODUzLDYxNj
-E2NjU0MCwyMDk2NzU4MTEsMzgwNTIzMjE1LDE0NzU0NTQ3Njcs
-MTM2MDk2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMj
-ExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYy
-XX0=
+eyJoaXN0b3J5IjpbLTE3MzU0MzE0MzAsMTg5MDE0ODQyOCwtNT
+E4OTE4ODUzLDYxNjE2NjU0MCwyMDk2NzU4MTEsMzgwNTIzMjE1
+LDE0NzU0NTQ3NjcsMTM2MDk2MzU2NSw2ODUwMjU0NTYsOTM2Nz
+I4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMx
+LC0xNzc1NTYzOTYyXX0=
 -->
