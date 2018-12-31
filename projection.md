@@ -64,13 +64,18 @@ $$
 \lVert u \rVert^2 = \bigg\lvert \dfrac{\langle u,v \rangle}{\langle v, v \rangle} \bigg\rvert^2 \lVert v \rVert^2 + \lVert z\rVert^2 =   \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} + \lVert z \rVert^2 \geq \dfrac{\lvert \langle u,v \rangle \rvert^2}{\lVert v \rVert^2} .
 $$
 
+# Regression coefficient 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/OLS_geometric_interpretation.svg/1280px-OLS_geometric_interpretation.svg.png)
+
+- $y$: $n \times 1$ vector of explained data 
+- $X$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Njc1ODExLDM4MDUyMzIxNSwxNDc1ND
-U0NzY3LDEzNjA5NjM1NjUsNjg1MDI1NDU2LDkzNjcyODgyLC0x
-NzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NT
-U2Mzk2Ml19
+eyJoaXN0b3J5IjpbLTE0MTQ4NTcwMDYsMjA5Njc1ODExLDM4MD
+UyMzIxNSwxNDc1NDU0NzY3LDEzNjA5NjM1NjUsNjg1MDI1NDU2
+LDkzNjcyODgyLC0xNzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MT
+UxNzczMSwtMTc3NTU2Mzk2Ml19
 -->
