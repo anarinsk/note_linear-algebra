@@ -77,13 +77,13 @@ $$
 \left(y-X \hat\beta \right)^{\text T} (X \hat{\beta})= 0 
 $$
 
-By some calculation, $\beta = (X^{\text T} X)^{-1}$
+By some calculation, $\beta = (X^{\text T} X)^{-1}X^{\text T} y$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk5MTc5NTcsNjE2MTY2NTQwLDIwOT
-Y3NTgxMSwzODA1MjMyMTUsMTQ3NTQ1NDc2NywxMzYwOTYzNTY1
-LDY4NTAyNTQ1Niw5MzY3Mjg4MiwtMTczOTMyMTE3MywtMjA1Mz
-A2ODE2Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
+eyJoaXN0b3J5IjpbLTUxODkxODg1Myw2MTYxNjY1NDAsMjA5Nj
+c1ODExLDM4MDUyMzIxNSwxNDc1NDU0NzY3LDEzNjA5NjM1NjUs
+Njg1MDI1NDU2LDkzNjcyODgyLC0xNzM5MzIxMTczLC0yMDUzMD
+Y4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
 -->
