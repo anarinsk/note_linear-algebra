@@ -74,14 +74,16 @@ $$
 In this view, regression is a project from $y$ onto column space of $X$. Thus, 
 
 $$
-\left(y-X \hat\beta \right)^{\text T} X = 0 
+\left(y-X \hat\beta \right)^{\text T} (X \hat{\beta})= 0 
 $$
+
+By some calculation, $\beta = (X^{\text T} X)^{-1}$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MTY2NTQwLDIwOTY3NTgxMSwzODA1Mj
-MyMTUsMTQ3NTQ1NDc2NywxMzYwOTYzNTY1LDY4NTAyNTQ1Niw5
-MzY3Mjg4MiwtMTczOTMyMTE3MywtMjA1MzA2ODE2Nyw1NjE1MT
-c3MzEsLTE3NzU1NjM5NjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMzk5MTc5NTcsNjE2MTY2NTQwLDIwOT
+Y3NTgxMSwzODA1MjMyMTUsMTQ3NTQ1NDc2NywxMzYwOTYzNTY1
+LDY4NTAyNTQ1Niw5MzY3Mjg4MiwtMTczOTMyMTE3MywtMjA1Mz
+A2ODE2Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
 -->
