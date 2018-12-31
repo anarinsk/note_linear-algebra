@@ -78,15 +78,17 @@ https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-s
 In this view, regression is a project from $y$ onto column space of $X$. Column space is spanned by $\left[ x_1, \dotsc, x_k \right]$ where $x_i$ is $i$'th column vector in the basis. 
 
 $$
-x_1^{\text T} (y- X \hat \beta) = 0 
-\vdots 
- 
+\begin{aligned}
+x_1^{\text T} (y- X \hat \beta) & = 0 \\
+& \vdots  \\
+x_k^{\text T} (y- X \hat \beta) & = 0 
+\end{aligned}
 $$
 
-Thus, 
+Thus, in matrix form, 
 
 $$
-\left(y-X \hat\beta \right)^{\text T} (X \hat{\beta})= 0 
+\left(y-X \hat\beta \right)^{\text T} (X \hat{\beta})= \mathbf 0 
 $$
 
 By some calculation, $\beta = (X^{\text T} X)^{-1}X^{\text T} y$
@@ -94,9 +96,9 @@ By some calculation, $\beta = (X^{\text T} X)^{-1}X^{\text T} y$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzMzNzI1OCwtNTE4OTE4ODUzLDYxNj
-E2NjU0MCwyMDk2NzU4MTEsMzgwNTIzMjE1LDE0NzU0NTQ3Njcs
-MTM2MDk2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMj
-ExNzMsLTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYy
-XX0=
+eyJoaXN0b3J5IjpbLTEyMjk0NjUxNjAsLTUxODkxODg1Myw2MT
+YxNjY1NDAsMjA5Njc1ODExLDM4MDUyMzIxNSwxNDc1NDU0NzY3
+LDEzNjA5NjM1NjUsNjg1MDI1NDU2LDkzNjcyODgyLC0xNzM5Mz
+IxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2
+Ml19
 -->
