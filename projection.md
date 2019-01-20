@@ -108,15 +108,18 @@ Argument 1
 $a(x-x_0) + b(y-y_0) + c(z-z_0) = 0$ where $d = a x_0 + b y_0 + c z_0$
 
 Argument 2
-Normal on $(x_0, y_0, z_0)$ is 
+Normal on $(x_0, y_0, z_0)$ is $(a, b, c)$ 
+
+proof
+$(a, b, c) \cdot (x_0, y_0, z_0) = $ 
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA2NjE5OTMsLTEyOTgxMDYzMDcsOD
-c1MDAyOTQsMTg5MDE0ODQyOCwtNTE4OTE4ODUzLDYxNjE2NjU0
-MCwyMDk2NzU4MTEsMzgwNTIzMjE1LDE0NzU0NTQ3NjcsMTM2MD
-k2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMs
-LTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbMTUzNzM5MDE0MSwtMTI5ODEwNjMwNyw4Nz
+UwMDI5NCwxODkwMTQ4NDI4LC01MTg5MTg4NTMsNjE2MTY2NTQw
+LDIwOTY3NTgxMSwzODA1MjMyMTUsMTQ3NTQ1NDc2NywxMzYwOT
+YzNTY1LDY4NTAyNTQ1Niw5MzY3Mjg4MiwtMTczOTMyMTE3Mywt
+MjA1MzA2ODE2Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
 -->
