@@ -94,9 +94,14 @@ $$
 By some calculation, $\beta = (X^{\text T} X)^{-1}X^{\text T} y$
 
 
+# Distance from a vector point to a plane 
+
+ 
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIwMjg2MzMsODc1MDAyOTQsMTg5MD
+eyJoaXN0b3J5IjpbLTEyOTgxMDYzMDcsODc1MDAyOTQsMTg5MD
 E0ODQyOCwtNTE4OTE4ODUzLDYxNjE2NjU0MCwyMDk2NzU4MTEs
 MzgwNTIzMjE1LDE0NzU0NTQ3NjcsMTM2MDk2MzU2NSw2ODUwMj
 U0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcs
