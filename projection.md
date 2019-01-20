@@ -104,13 +104,14 @@ https://mathinsight.org/distance_point_plane
 - A point outside the plane $(x_1, y_1, z_1)$
 - A point on the plane: $(x_0, y_0, z_0)$
 
-- a(x-x0) + b( 
+Argument 
+$a(x-x_0) + b(y-y_0) + c(z-z_0) = 0$
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjExMjg2MzgsLTEyOTgxMDYzMDcsOD
+eyJoaXN0b3J5IjpbLTIwMDIyOTU5OTAsLTEyOTgxMDYzMDcsOD
 c1MDAyOTQsMTg5MDE0ODQyOCwtNTE4OTE4ODUzLDYxNjE2NjU0
 MCwyMDk2NzU4MTEsMzgwNTIzMjE1LDE0NzU0NTQ3NjcsMTM2MD
 k2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMs
