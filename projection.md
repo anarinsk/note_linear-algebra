@@ -108,20 +108,21 @@ Argument 1
 $a(x-x_0) + b(y-y_0) + c(z-z_0) = 0$ where $d = -(a x_0 + b y_0 + c z_0)$
 
 Argument 2
-Normal on $(x_0, y_0, z_0)$ is $(a, b, c)$ 
+Normal of plane is $(a, b, c)$ 
 
 proof
-$(a, b, c) \cdot (x, y, z) =0$ where $(x,y,z)$ any vector on the plane originated from $(x_0, y_0, z_0)$
+http://tutorial.math.lamar.edu/Classes/CalcIII/EqnsOfPlanes.aspx
 
-$a x + b y + c z = -d$  
- 
+Final argument 
+https://mathinsight.org/distance_point_plane
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODU3NzU3MDQsLTEyOTgxMDYzMDcsOD
-c1MDAyOTQsMTg5MDE0ODQyOCwtNTE4OTE4ODUzLDYxNjE2NjU0
-MCwyMDk2NzU4MTEsMzgwNTIzMjE1LDE0NzU0NTQ3NjcsMTM2MD
-k2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMs
-LTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbNzkyNjM2Mjk4LC0xNjg1Nzc1NzA0LC0xMj
+k4MTA2MzA3LDg3NTAwMjk0LDE4OTAxNDg0MjgsLTUxODkxODg1
+Myw2MTYxNjY1NDAsMjA5Njc1ODExLDM4MDUyMzIxNSwxNDc1ND
+U0NzY3LDEzNjA5NjM1NjUsNjg1MDI1NDU2LDkzNjcyODgyLC0x
+NzM5MzIxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NT
+U2Mzk2Ml19
 -->
