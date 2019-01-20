@@ -105,13 +105,13 @@ https://mathinsight.org/distance_point_plane
 - A point on the plane: $(x_0, y_0, z_0)$
 
 Argument 1
-$a(x-x_0) + b(y-y_0) + c(z-z_0) = 0$ where $d = a x_0 + b y_0 + c z_0$
+$a(x-x_0) + b(y-y_0) + c(z-z_0) = 0$ where $d = -(a x_0 + b y_0 + c z_0)$
 
 Argument 2
 Normal on $(x_0, y_0, z_0)$ is $(a, b, c)$ 
 
 proof
-$(a, b, c) \cdot (x, y, z) =0$ where $(x,y,z)$ on the plane 
+$(a, b, c) \cdot (x, y, z) =0$ where $(x,y,z)$ any vector on the plane originated from $(x_0, y_0, z_0)$
 
 $a x + b y + c z = -d$  
  
@@ -119,7 +119,7 @@ $a x + b y + c z = -d$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjcxMTA5MDYsLTEyOTgxMDYzMDcsOD
+eyJoaXN0b3J5IjpbLTE2ODU3NzU3MDQsLTEyOTgxMDYzMDcsOD
 c1MDAyOTQsMTg5MDE0ODQyOCwtNTE4OTE4ODUzLDYxNjE2NjU0
 MCwyMDk2NzU4MTEsMzgwNTIzMjE1LDE0NzU0NTQ3NjcsMTM2MD
 k2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMs
