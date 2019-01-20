@@ -101,16 +101,18 @@ https://mathinsight.org/distance_point_plane
 ## Definition of problem 
 
 - A plane: $a x +  b y + c z + d =0$
-- A point outside the plane $(x_0, y_0, z_0)$ 
+- A point outside the plane $(x_1, y_1, z_1)$
+- A point on the plane: $(x_0, y_0, z_0)$
 
-- re
+- a(x-x0) + b( 
+ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzI1MTk2NSwtMTI5ODEwNjMwNyw4Nz
-UwMDI5NCwxODkwMTQ4NDI4LC01MTg5MTg4NTMsNjE2MTY2NTQw
-LDIwOTY3NTgxMSwzODA1MjMyMTUsMTQ3NTQ1NDc2NywxMzYwOT
-YzNTY1LDY4NTAyNTQ1Niw5MzY3Mjg4MiwtMTczOTMyMTE3Mywt
-MjA1MzA2ODE2Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
+eyJoaXN0b3J5IjpbLTE5MjExMjg2MzgsLTEyOTgxMDYzMDcsOD
+c1MDAyOTQsMTg5MDE0ODQyOCwtNTE4OTE4ODUzLDYxNjE2NjU0
+MCwyMDk2NzU4MTEsMzgwNTIzMjE1LDE0NzU0NTQ3NjcsMTM2MD
+k2MzU2NSw2ODUwMjU0NTYsOTM2NzI4ODIsLTE3MzkzMjExNzMs
+LTIwNTMwNjgxNjcsNTYxNTE3NzMxLC0xNzc1NTYzOTYyXX0=
 -->
