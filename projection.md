@@ -1,6 +1,6 @@
 
 
-# Meaning of Projection 
+# Meaning of Projection using vectors 
 
 ![](http://blogs.jccc.edu/rgrondahl/files/2012/02/perpendicularprojection.jpg)
 
@@ -121,7 +121,7 @@ https://mathinsight.org/distance_point_plane
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjQ3NTk3Miw3OTI2MzYyOTgsLTE2OD
+eyJoaXN0b3J5IjpbLTk0NzExNTc5Miw3OTI2MzYyOTgsLTE2OD
 U3NzU3MDQsLTEyOTgxMDYzMDcsODc1MDAyOTQsMTg5MDE0ODQy
 OCwtNTE4OTE4ODUzLDYxNjE2NjU0MCwyMDk2NzU4MTEsMzgwNT
 IzMjE1LDE0NzU0NTQ3NjcsMTM2MDk2MzU2NSw2ODUwMjU0NTYs
