@@ -129,10 +129,13 @@ https://stats.stackexchange.com/questions/123651/geometric-interpretation-of-mul
 - $\textrm R^2$ is $\cos \theta$. 
 
 $$
-\dfrac{\Vert \mathbf Y - \overline{Y} \mathbf 1_n \Vert }{\Vert  {\hat \mathbf Y}  \Vert }
+\dfrac{\Vert \mathbf Y - \overline{Y} \mathbf 1_n \Vert }{\Vert  {\hat \mathbf Y} -   \overline{Y} \mathbf 1_n \Vert }
 $$
+
+- To formulate $\mathrm R^2$, we can use Pythagoras theorem 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjg1MjE4OCwtOTQ3MTE1NzkyLDc5Mj
+eyJoaXN0b3J5IjpbMTQzMTIwMDQxOSwtOTQ3MTE1NzkyLDc5Mj
 YzNjI5OCwtMTY4NTc3NTcwNCwtMTI5ODEwNjMwNyw4NzUwMDI5
 NCwxODkwMTQ4NDI4LC01MTg5MTg4NTMsNjE2MTY2NTQwLDIwOT
 Y3NTgxMSwzODA1MjMyMTUsMTQ3NTQ1NDc2NywxMzYwOTYzNTY1
