@@ -129,13 +129,13 @@ https://stats.stackexchange.com/questions/123651/geometric-interpretation-of-mul
 - $\textrm R^2$ is $\cos \theta$. 
 
 $$
-
+\dfrac{\Vert \mathbf Y - \overline{Y} \mathbf 1_n \Vert }{\Vert  {\hat \mathbf Y}  \Vert }
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNDgzMzY1LC05NDcxMTU3OTIsNzkyNj
-M2Mjk4LC0xNjg1Nzc1NzA0LC0xMjk4MTA2MzA3LDg3NTAwMjk0
-LDE4OTAxNDg0MjgsLTUxODkxODg1Myw2MTYxNjY1NDAsMjA5Nj
-c1ODExLDM4MDUyMzIxNSwxNDc1NDU0NzY3LDEzNjA5NjM1NjUs
-Njg1MDI1NDU2LDkzNjcyODgyLC0xNzM5MzIxMTczLC0yMDUzMD
-Y4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
+eyJoaXN0b3J5IjpbLTMxNjg1MjE4OCwtOTQ3MTE1NzkyLDc5Mj
+YzNjI5OCwtMTY4NTc3NTcwNCwtMTI5ODEwNjMwNyw4NzUwMDI5
+NCwxODkwMTQ4NDI4LC01MTg5MTg4NTMsNjE2MTY2NTQwLDIwOT
+Y3NTgxMSwzODA1MjMyMTUsMTQ3NTQ1NDc2NywxMzYwOTYzNTY1
+LDY4NTAyNTQ1Niw5MzY3Mjg4MiwtMTczOTMyMTE3MywtMjA1Mz
+A2ODE2Nyw1NjE1MTc3MzEsLTE3NzU1NjM5NjJdfQ==
 -->
