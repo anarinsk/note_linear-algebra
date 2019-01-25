@@ -119,12 +119,23 @@ Final argument
 https://mathinsight.org/distance_point_plane
 
 
+# Interpretation of $\mathrm R^2$
 
+https://stats.stackexchange.com/questions/123651/geometric-interpretation-of-multiple-correlation-coefficient-r-and-coefficient
+
+![](https://i.stack.imgur.com/rDYMh.png)
+
+
+- $\textrm R^2$ is $\cos \theta$. 
+
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzExNTc5Miw3OTI2MzYyOTgsLTE2OD
-U3NzU3MDQsLTEyOTgxMDYzMDcsODc1MDAyOTQsMTg5MDE0ODQy
-OCwtNTE4OTE4ODUzLDYxNjE2NjU0MCwyMDk2NzU4MTEsMzgwNT
-IzMjE1LDE0NzU0NTQ3NjcsMTM2MDk2MzU2NSw2ODUwMjU0NTYs
-OTM2NzI4ODIsLTE3MzkzMjExNzMsLTIwNTMwNjgxNjcsNTYxNT
-E3NzMxLC0xNzc1NTYzOTYyXX0=
+eyJoaXN0b3J5IjpbMjgwNDgzMzY1LC05NDcxMTU3OTIsNzkyNj
+M2Mjk4LC0xNjg1Nzc1NzA0LC0xMjk4MTA2MzA3LDg3NTAwMjk0
+LDE4OTAxNDg0MjgsLTUxODkxODg1Myw2MTYxNjY1NDAsMjA5Nj
+c1ODExLDM4MDUyMzIxNSwxNDc1NDU0NzY3LDEzNjA5NjM1NjUs
+Njg1MDI1NDU2LDkzNjcyODgyLC0xNzM5MzIxMTczLC0yMDUzMD
+Y4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2Ml19
 -->
