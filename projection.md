@@ -11,7 +11,7 @@ $\cos \theta$ is to be $\dfrac{\lVert \text{Proj}_v u \rVert}{\lVert u \rVert}$.
 Thus, 
 
 $$
-\cos \theta = \frac{u \cdot v}{\lVert u \rVert {\,}\lVert v \rVert}
+\cos \theta = \frac{u \cdot v}{\lVert u \rVert \lVert v \rVert}
 $$
 
 # Dot product with COS 
