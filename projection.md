@@ -119,7 +119,7 @@ Final argument
 https://mathinsight.org/distance_point_plane
 
 
-# Interpretation of $\mathrm R^2$
+# Interpretation of $\mathbb R^2$
 
 https://stats.stackexchange.com/questions/123651/geometric-interpretation-of-multiple-correlation-coefficient-r-and-coefficient
 
@@ -135,11 +135,11 @@ $$
 - To formulate $\mathrm R^2$, we can use Pythagoras theorem 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTc0OTA5NSwxNDMxMjAwNDE5LC05ND
-cxMTU3OTIsNzkyNjM2Mjk4LC0xNjg1Nzc1NzA0LC0xMjk4MTA2
-MzA3LDg3NTAwMjk0LDE4OTAxNDg0MjgsLTUxODkxODg1Myw2MT
-YxNjY1NDAsMjA5Njc1ODExLDM4MDUyMzIxNSwxNDc1NDU0NzY3
-LDEzNjA5NjM1NjUsNjg1MDI1NDU2LDkzNjcyODgyLC0xNzM5Mz
-IxMTczLC0yMDUzMDY4MTY3LDU2MTUxNzczMSwtMTc3NTU2Mzk2
-Ml19
+eyJoaXN0b3J5IjpbLTExMjA2NDEyLC02NzE3NDkwOTUsMTQzMT
+IwMDQxOSwtOTQ3MTE1NzkyLDc5MjYzNjI5OCwtMTY4NTc3NTcw
+NCwtMTI5ODEwNjMwNyw4NzUwMDI5NCwxODkwMTQ4NDI4LC01MT
+g5MTg4NTMsNjE2MTY2NTQwLDIwOTY3NTgxMSwzODA1MjMyMTUs
+MTQ3NTQ1NDc2NywxMzYwOTYzNTY1LDY4NTAyNTQ1Niw5MzY3Mj
+g4MiwtMTczOTMyMTE3MywtMjA1MzA2ODE2Nyw1NjE1MTc3MzFd
+fQ==
 -->
