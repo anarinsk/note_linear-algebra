@@ -24,7 +24,7 @@ https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gram%E2%80%93Schmidt_process.svg/350px-Gram%E2%80%93Schmidt_process.svg.png)
 
-* Set of original vectors is $\lbrace v_1, v_2, \dotsc, v_n \rbrace$, and Set of orthogonal bases is $\lbrace u_1, u_2, \dotsc, u_n \rbrace$
+* Set of original vectors is $\lbrace v_1, v_2, \dotsc, v_k \rbrace$, and Set of orthogonal bases is $\lbrace u_1, u_2, \dotsc, u_k \rbrace$
 
 * Start with $v_1 = u_1$
 * Let $\text{proj}_u (v)$ be project of $v$ to vector $u$. 
@@ -34,15 +34,17 @@ https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
 
 ## Generalization to $k$-dimension 
 
-$u_1 = v_{1}$
+$u_1 = v_{1}$  : 기준점 벡터는 동일하다. 
 
-$u_2 = v_2 - \mathrm{proj}_{u_1}(v_2)$
+$u_2 = v_2 - \mathrm{proj}_{u_1}(v_2)$ : $u_2$는 $u_1$하고만 $\perp$ 
 
-$u_3 = v_3 - \mathrm{proj}_{u_1}(v_3)$ $- \mathrm{proj}_{u_2}(v_3)$ 
+$u_3 = v_3 - \mathrm{proj}_{u_1}(v_3)$ $- \mathrm{proj}_{u_2}(v_3)$ : $u_3$는 $u_2$, $u_1$과 $\perp$ 
 
-$$\vdots$$
+$\vdots$
 
-$$u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$$
+$u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$  * 마지막 차원의 $u_k$는 $u_1, \dotsc, u_{k-1}$과 $\perp$
+
+이후 $u_i$를 orthonormal하게 만들어주기 위해서, $e_i = \dfrac{u_i}{\Vert u_i \Vert}$
 
 ## Why / is important 
 
@@ -53,8 +55,9 @@ $$u_k = v_k -\sum_{j=1}^{k-1} \text{proj}_{u_j}(v_k)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTgwNjY5MywtMTEwNTYxODM1NywxNj
-c0MTU1OTk2LDQwMTEwNzM5MSwxMDA4ODczMDMsLTE5NzQ0NDky
-ODEsNzcxMzQ5MDU1LDY1NDcxNTA2MiwxMjk4NDUxMjIsLTEwMz
-Y1NDA3OTgsNjk3MDE4MzEyLDI5OTg3MzM2XX0=
+eyJoaXN0b3J5IjpbMTAzMDc3MTc5NiwtMjU5ODA2NjkzLC0xMT
+A1NjE4MzU3LDE2NzQxNTU5OTYsNDAxMTA3MzkxLDEwMDg4NzMw
+MywtMTk3NDQ0OTI4MSw3NzEzNDkwNTUsNjU0NzE1MDYyLDEyOT
+g0NTEyMiwtMTAzNjU0MDc5OCw2OTcwMTgzMTIsMjk5ODczMzZd
+fQ==
 -->
